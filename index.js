@@ -104,4 +104,3 @@ function getPhrase(signe) {
     return phrases[signe];
 }
 
-
