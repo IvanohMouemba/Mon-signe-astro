@@ -1,0 +1,65 @@
+div {
+    padding: 15px;
+    background-color: beige;
+    color: rgb(65, 124, 250);
+}
+h1 {
+    padding: 10px;
+    text-align: center;
+    color:white; 
+    background-color:rgb(252, 252, 7);
+    border: 5px solid white;
+    border-radius: 15px;
+}
+h2 {
+    text-align: center;
+    color:rgb(32, 168, 231);    
+}
+body {
+    background-image: URL("étoiles.jfif");
+    height: 300px;
+    border-color: rgb(35, 207, 35);
+    background-attachment: fixed;
+}
+#sub {
+    color: rgb(231, 225, 231);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(230, 22, 22);
+    border-color: rgb(50, 228, 174);
+}
+.rer {
+  background-color:rgb(80, 154, 250) ;
+  color: rgb(233, 239, 241);
+  border-radius: 10px;
+}
+#GUI {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 237, 7);
+    border-radius: 20px;
+
+    
+}
+#result{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(53, 53, 248);
+    background-color: rgb(245, 242, 242);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.op{
+    color: white;
+}
+#month {
+    padding: 5px 30px;
+    border: 2px solid rgb(0, 255, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+#day {
+    padding: 5px 20px;
+    border: 2px solid rgb(0, 255, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
